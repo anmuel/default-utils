@@ -1,4 +1,4 @@
-# default-utils
+# default-utils [![Build Status](https://travis-ci.org/anmuel/default-utils.svg?branch=master)](https://travis-ci.org/anmuel/default-utils)
 
 > A set of convenience methods to provide default values for blank values
 
